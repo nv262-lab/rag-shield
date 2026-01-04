@@ -4,13 +4,7 @@
 
 > First-of-its-kind automated system for detecting and remediating poisoning attacks against Retrieval-Augmented Generation (RAG) systems across AWS, Azure, and GCP.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![Patent Pending](https://img.shields.io/badge/Patent-Pending-red.svg)](#patent-strategy)
-
----
-
-## 🎯 What Makes This Unique & Patent-Worthy
+## 🎯 What Makes This Unique
 
 **RAG-Shield** is the world's first automated, multi-cloud security platform specifically designed for RAG systems with:
 
@@ -251,39 +245,6 @@ Credential Leakage:
      └─────────────────────────────────┘
 ```
 
----
-
-## 💡 Patent Strategy
-
-### Novel Contributions:
-
-1. **First RAG-Specific Security Platform**
-   - No prior art exists for RAG poisoning detection
-   - Novel approach combining LLM analysis + statistical methods
-
-2. **Multi-Cloud Attack Correlation**
-   - Unique cross-cloud forensics engine
-   - Distributed attack detection
-
-3. **Embedding Drift Detection**
-   - Statistical baseline analysis
-   - Real-time drift scoring
-
-4. **Automated Remediation**
-   - Policy-driven quarantine
-   - Zero-touch restoration
-
-### Patent Filing Timeline:
-
-- **Week 1-2:** File provisional patent ($300 USPTO)
-- **Month 12:** Convert to full utility patent ($8K-15K)
-- **Month 18:** International PCT filing
-- **Year 3-5:** Commercialization & licensing
-
-**Estimated IP Value:** $2M-20M over 5 years
-
----
-
 ## 📈 Performance Benchmarks
 
 **Detection Performance:**
@@ -364,50 +325,3 @@ Drift Scores:
 - 📝 GCP integration
 - 📝 Terraform modules
 - 📝 GitHub Actions workflows
-
----
-
-## 📝 Next Steps
-
-**To complete the repository, I'm providing you with:**
-
-1. ✅ **Working Foundation** (7 files created, all executable)
-2. 📋 **Complete File Manifest** (85+ files planned)
-3. 📖 **Architecture Documentation** (this README)
-4. 🎯 **Clear Roadmap** (4-week plan)
-5. 🏆 **Patent Strategy** (filing guide)
-
-**You can:**
-- Run the existing code NOW (it works!)
-- Use this as foundation for patent filing
-- Add remaining 78 files incrementally
-- Or request me to generate ALL 85 files in next iteration
-
----
-
-## 🤝 Contributing
-
-This is a research project intended for:
-- Academic research
-- Security testing
-- Patent filing
-- Commercialization
-
----
-
-## 📄 License
-
-MIT License - See LICENSE file
-
----
-
-## 🏆 Recognition
-
-**Repository Name:** RAG-Shield  
-**Tagline:** "World's First Multi-Cloud RAG Security Platform"  
-**Status:** Patent Pending | Production Ready (25%)  
-**Unique Value:** First-of-its-kind automated RAG poisoning detection
-
----
-
-**Created with precision for Akhil's DevOps & MBA success 🚀**
